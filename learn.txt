@@ -1,0 +1,25 @@
+h3:hover{
+    color
+    background color
+}
+hover means mouse over.
+input:focus{
+    color
+    outline
+    border
+}
+a:visited{
+    color
+}
+li:last-child{
+    color
+}
+li:nth-child(2n){
+    color
+}
+li:nth-child(2n+1){
+    color
+}
+li:first-child{
+    color
+}
